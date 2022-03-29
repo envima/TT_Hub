@@ -1,7 +1,7 @@
 ---
 title: "TT_Hub"
 layout: splash
-excerpt: "TT_Hub - The TeeTalker data processor."  
+excerpt: "TT_Hub - The TreeTalker data processor."  
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

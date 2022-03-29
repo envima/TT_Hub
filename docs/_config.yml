@@ -55,6 +55,10 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+logo: "/assets/images/logo_umr.png"
+search: true
+search_full_content: true
+
 footer:
   links:
     - label: "GitHub"
