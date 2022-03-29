@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/front3.png
   actions:
     - label: "Start now"
-      url: /about/
+      url: /about
   caption: "Photo credit: Environmental Informatics Marburg"
 intro: 
   - excerpt: 'TT_Hub is a community project.' 
